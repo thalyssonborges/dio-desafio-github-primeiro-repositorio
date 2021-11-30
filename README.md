@@ -4,8 +4,6 @@ Repositório criado para Desafio de Projeto.
 Com o intuito de aderir as boas práticas de versionamento de código e organização, começo esse projeto compartilhando alguns conceitos e comandos importantíssimos sobre o GIT que descobri pelo https://gist.github.com/leocomelli, dessa maneira posso me ambientar com a plataforma e torna-lá cada vez mais usual sem falar que também pode ser útil para outras pessoas.
 
 
-
-```
 # GIT
 
 ## Estados
@@ -453,4 +451,3 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 # Contribuições
 
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
-```
